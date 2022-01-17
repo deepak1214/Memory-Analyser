@@ -1,5 +1,5 @@
 # Memory-Analyser
-Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison. (Source: Wikipedia)
+Memory-Analyser is an electronic game which checks your concentration 
 
 I have tried making it using HTML , CSS and Javascript ( also used jQuery as framework. )
 
