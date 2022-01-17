@@ -1,5 +1,5 @@
 # Memory-Analyser
-Memory-Analyser is an electronic game which checks your concentration 
+Memory-Analyser is an electronic game which checks your concentration-level & your memory retention powers.
 
 I have tried making it using HTML , CSS and Javascript ( also used jQuery as framework. )
 
